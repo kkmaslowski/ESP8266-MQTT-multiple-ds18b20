@@ -9,6 +9,8 @@ This Sketch will connect your ESP8266 to your WIFI-AP and to a MQTT-Server. It'l
 
 
 Based on:
-https://github.com/esp8266/Arduino
-https://github.com/knolleary/pubsubclient
-https://gist.github.com/igrr/7f7e7973366fc01d6393
+
+- https://github.com/esp8266/Arduino
+- https://github.com/knolleary/pubsubclient
+- https://gist.github.com/igrr/7f7e7973366fc01d6393
+- The example Sketch for the DS18B20 from the Arduino IDE
